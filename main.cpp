@@ -1,4 +1,4 @@
-
+//Compiler only reads whole numbers from console inputs.
 #include <iostream>
 using namespace std;
 
